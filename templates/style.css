@@ -1,0 +1,13 @@
+ .bsNavbar {
+    background-color: #170055;
+    display: block;
+    
+ }
+ .mainLogo {
+    height: 45px;
+    width: 45px;
+ }
+ .logoContainer {
+    height: 300px;
+    width: 300px;
+ }
